@@ -1,4 +1,4 @@
-# delta_simu# Delta Robot Simulation and G-code Visualization Tool
+# Delta Robot Simulation and G-code Visualization Tool
 
 ![Sample_figure](/images/cover.gif)
 
