@@ -67,11 +67,11 @@ This tool is ideal for:
 
 ## Developer
 
-**Yun Zhou (Robbie)**  
+1. **Yun Zhou (Robbie)**  
 Background in Mechanical Engineering and Applied Data Science.  
 Email: robbiezhou1@gmail.com
 GitHub: [@Green-zy](https://github.com/Green-zy)
 
-**Hanule Cho**
-Mechanical Engineer
+2. **Hanule Cho**  
+Mechanical Engineer  
 Email: coco8563@naver.com
